@@ -1,3 +1,3 @@
 # Kntnt Minimal Theme
 
-WordPress theme that is the smallest and simplest possible. You have to create templates and styles yourself.
+A WordPress full site editing theme that is the simplest possible. You need to create templates and style it yourself.
